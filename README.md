@@ -1,1 +1,1 @@
-# Arpit.io
+# QR Code Generator
